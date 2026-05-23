@@ -1,3 +1,7 @@
+## Live Demo
+
+https://ai-chatbox-application.vercel.app/
+
 # AI Chatbox Application
 
 A real-time conversational AI chat application built using React.js, Redux Toolkit, Node.js, and AI APIs.
